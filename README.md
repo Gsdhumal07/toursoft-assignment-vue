@@ -1,4 +1,6 @@
-# end
+ Following way you can setup your project after download the zip file of project
+
+install the dependencies for the project using the following command
 
 ## Project setup
 ```
